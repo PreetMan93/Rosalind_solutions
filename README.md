@@ -1,2 +1,3 @@
-# Rosalind_solutions
-Rosalind is a platform for learning bioinformatics and programming through problem solving. I figure it's a good way to sharpen my programming skills while simultaneously learning more about biology / bioinformatics!
+I'll be posting my solutions to the [problem sets](http://rosalind.info/problems/locations/ "Problem Sets") in this repo.
+
+For more information about Rosalind click [here](http://rosalind.info/about/ "About")
